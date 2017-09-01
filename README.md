@@ -3,10 +3,10 @@ Python script for calculating and plotting kinetic analysis of battery materials
 
 Script generates CV plots of batteries materials and shifts CVs accordingly to account for peak shifting from kinetic effects during different sweep rates. Script utilizes 0.2 mV/s, 0.5 mV/s, and 1 mV/s sweep rates with CV data collected using a BioLogic VSP potentiostat. From there, the script generates and plots the capacitive portion of the CVs and calculates the percent capacitance.
 
-![0.2mVs](https://github.com/sansona/KineticAnalysis/tree/master/Images/0.2mVs.PNG)
+![0.2mVs](https://raw.githubusercontent.com/sansona/KineticAnalysis/tree/master/Images/0.2mVs.PNG)
 
-![0.5mVs](https://github.com/sansona/KineticAnalysis/tree/master/Images/0.5mVs.PNG)
+![0.5mVs](https://raw.githubusercontent.com/sansona/KineticAnalysis/tree/master/Images/0.5mVs.PNG)
 
-![1mVs](https://github.com/sansona/KineticAnalysis/tree/master/Images/1mVs.PNG)
+![1mVs](https://raw.githubusercontent.com/sansona/KineticAnalysis/tree/master/Images/1mVs.PNG)
 
-![Final Result](https://github.com/sansona/KineticAnalysis/tree/master/Images/FinalKineticAnalysis.PNG)
+![Final Result](https://raw.githubusercontent.com/sansona/KineticAnalysis/tree/master/Images/FinalKineticAnalysis.PNG)
